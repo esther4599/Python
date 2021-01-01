@@ -1,1 +1,3 @@
-infren python algorithm 강의
+#infren 강의
+
+파이썬 알고리즘 문제풀이 (코딩테스트 대비)
